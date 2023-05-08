@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: VFOI Community
+  url: /
+  excerpt:
+  image:
+
+- title: VFOI Collection
+  url: /collection
+  excerpt:
+  image:
+
+- title: VFOI Network
+  url: http://167.71.174.206/graph/ItestTeam/#/
+  excerpt:
+  image:
